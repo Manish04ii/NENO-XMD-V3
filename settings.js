@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "PLZ PUT YOUER SESSON ID PLZ",
+    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~iaIDzKyB#jY7h3W9od0rTjw5-7ul-WVF7RDhdbu-KrV0vyxTbLHI",
     // add your Session Id make sure it starts with NENO~
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "ɴᴇɴᴏ-xᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "MANISH ",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -59,7 +59,7 @@ module.exports = {
 
 ᴋᴇᴇᴘ ᴜsɪɴɢ ✦ɴᴇɴᴏ xᴍᴅ✦ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ⚡
 
-*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ -ɴᴇɴᴏ xᴍᴅ*
+*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ -MANISH X LIVE*
 
 > ɢɪᴛʜᴜʙ : https://github.com/Nimeshkamihiran`,
     // add alive msg here 
@@ -67,7 +67,7 @@ module.exports = {
     STICKER_NAME: process.env.STICKER_NAME || "ɴᴇɴᴏ ᴠ3",
     // type sticker pack name 
 
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
     // make this true for custom emoji react  
 
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
@@ -76,7 +76,7 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "94721584279",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "972599267583",
     // add your bot owner number
 
     OWNER_NAME: process.env.OWNER_NAME || "ɴɪᴍᴇꜱʜᴋᴀ࿐",
@@ -88,7 +88,7 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     // Turn true or false for automatic read msgs
 
-    AUTO_REACT: process.env.AUTO_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
     // make this true or false for auto react on all msgs
 
     ANTI_BAD: process.env.ANTI_BAD || "false",
@@ -115,7 +115,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "263780166288",
+    DEV: process.env.DEV || "972599267583",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
@@ -144,7 +144,7 @@ https://youtube.com/@MihirangaMihiranga-k1k
 https://github.com/Nimeshkamihiran/neno-xmd-V3
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀɴ💖😍`,
-OWNER_DISPLAY: process.env.OWNER_DISPLAY || "Nimeshka Mihiran",
+OWNER_DISPLAY: process.env.OWNER_DISPLAY || "MANISH X LIVE",
     
 DOWNLOAD_DIR: process.env.DOWNLOAD_DIR || "./downloaded_status",
 
